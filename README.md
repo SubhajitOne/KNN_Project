@@ -1,5 +1,5 @@
 # KNN_Project
-A Dataset is taken and KNN classification has been done.
+A Dataset is taken and classification was done using KNN classifier.
 Here 'Target Class' is the labelled column.
 A pairplot has been done on the whole dataset to see the corelations between the features.
 A model has been created and kNN classification has been done.
